@@ -12,6 +12,7 @@ def display_menu():
     print("2       => toon alle muzikanten die een door jou gekozen instrument bespelen")
     print("3       => voeg een instrument toe aan een muzikant die reeds in de lijst staat")
     print("4       => voeg een muzikant toe, met minstens 1 instrument")
+    print("5       => verwijder een muzikant uit de lijst")
     print("stop    => verlaat de applicatie")
     print()
     print("Kies een commando door het overeenkomstige getal " +
